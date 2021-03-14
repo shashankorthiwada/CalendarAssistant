@@ -1,4 +1,4 @@
-# CalendarAssistant
+# Calendar Assistant
 Calendar Assistant is an API which resolves conflicts of the scheduled meetings
 
 ## Features
