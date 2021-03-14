@@ -1,0 +1,20 @@
+{
+	"Owner": "Employee1",
+	"Meetings": [
+		{
+			"StartTime": "07:07",
+			"EndTime": "08:08",
+			"Organizer": "Employee1",
+			"Invitees": 2
+		},
+		{
+			"StartTime": "07:30",
+			"EndTime": "08:30",
+			"Organizer": "Employee2",
+			"Invitees": 2
+		}
+	]
+}
+
+
+
